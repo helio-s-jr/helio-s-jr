@@ -22,6 +22,6 @@
   
 <div>
   <a href="https://www.linkedin.com/in/helio-s-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/hellio.jr/?hl=pt-br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logocolor=white" target="_blank"></a>
-  <a href="mailto:heliojr.zpt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logocolor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/hellio.jr/?hl=pt-br/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:heliojr.zpt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
